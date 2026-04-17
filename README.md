@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_BANNER_LINK" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome%20to%20My%20GitHub&fontSize=30" />
 </p>
 ## Hi there, I'm Amritha 👋
 
@@ -20,7 +20,7 @@ I love building applications that solve real-world problems and create impact �
 | Cybersecurity Chatbot | Detect phishing & scams | Python, NLP |
 | Resume Builder | PDF resume generator | Flutter |
 **Passionate Developer | UI/UX Enthusiast | Tech Explorer**
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome%20to%20My%20GitHub&fontSize=30)
+
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=amritha0503&show_icons=true&theme=tokyonight)
