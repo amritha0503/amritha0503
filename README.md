@@ -83,8 +83,8 @@ fun_fact: I turn ideas into apps faster than coffee gets cold ☕
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=amritha0503&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritha0503&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=amritha0503&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritha0503&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
@@ -92,7 +92,7 @@ fun_fact: I turn ideas into apps faster than coffee gets cold ☕
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amritha0503&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=amritha0503&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" />
 </p>
 
 ---
