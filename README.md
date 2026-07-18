@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Hi%20There,%20I'm%20Amritha%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Flutter%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Tech%20Explorer&descAlignY=55&descSize=18" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Hi%20There%2C%20I%27m%20Amritha%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Flutter%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Tech%20Explorer&descAlignY=56&descSize=18" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=764ABA&center=true&vCenter=true&width=600&lines=Building+apps+that+solve+real-world+problems+%F0%9F%9A%80;Flutter+%2B+AI+%3D+%E2%9D%A4%EF%B8%8F;Always+exploring+new+tech!" alt="Typing SVG" />
+  <img width="700" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=764ABA&center=true&vCenter=true&width=700&lines=Building+apps+that+solve+real-world+problems+%F0%9F%9A%80;Flutter+%2B+AI+%3D+%E2%9D%A4%EF%B8%8F;Always+exploring+new+tech!" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -94,6 +94,20 @@ fun_fact: I turn ideas into apps faster than coffee gets cold ☕
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=amritha0503&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amritha0503/amritha0503/output/github-contribution-grid-snake-dark.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amritha0503/amritha0503/output/github-contribution-grid-snake.gif" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/amritha0503/amritha0503/output/github-contribution-grid-snake.gif" />
+  </picture>
+</p>
+
+> ⚙️ **One-time setup needed:** this GIF is generated live from your contribution graph by a GitHub Action, so it won't show anything until you add the workflow below to this repo.
 
 ---
 
